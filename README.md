@@ -11,6 +11,8 @@ A Game Boy Advance (GBA) application developed in C using DMA graphics rendering
 - Added reset functionality using the SELECT button
 - Used keyboard/button input to control gameplay and screen changes
 
+# **Screenshots**
+
 # **What I Worked On**
 - I implemented the movement system, screen transitions, collision logic, and image rendering. I also worked on reducing screen tearing by synchronizing drawing operations properly.
 
